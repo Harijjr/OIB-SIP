@@ -93,4 +93,4 @@ public class OnlineExam {
         long startTime = System.currentTimeMillis();
         long maxTime = 1800000; // 30 minutes in milliseconds
         
-        while ((System.currentTimeMillis() - startTime
+        while ((System.currentTimeMillis() - startTime))
